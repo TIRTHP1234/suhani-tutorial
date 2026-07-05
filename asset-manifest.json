@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/suhani-tutorial/static/css/main.e6c13ad2.css",
+    "main.js": "/suhani-tutorial/static/js/main.5bd05fe6.js",
+    "static/js/453.0a87d1bb.chunk.js": "/suhani-tutorial/static/js/453.0a87d1bb.chunk.js",
+    "index.html": "/suhani-tutorial/index.html",
+    "main.e6c13ad2.css.map": "/suhani-tutorial/static/css/main.e6c13ad2.css.map",
+    "main.5bd05fe6.js.map": "/suhani-tutorial/static/js/main.5bd05fe6.js.map",
+    "453.0a87d1bb.chunk.js.map": "/suhani-tutorial/static/js/453.0a87d1bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5bd05fe6.js"
+  ]
+}
